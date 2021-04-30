@@ -25,6 +25,5 @@ ___
 ___
 
 ## About me
-##### My name is Artur and I am a Newbie in iOS Development. My primary focus and inspiration for my studies is Mobile Development.
-##### In my free time, I study human computer interface and the psychology of human learning.
+##### My name is Artur and I am a Newbie in iOS Development. My primary focus and inspiration for my studies is Mobile Development. In my free time, I study human computer interface and the psychology of human learning.
 ##### I am both driven and self-motivated, and I am constantly experimenting with new technologies and techniques.
