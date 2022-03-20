@@ -1,6 +1,8 @@
 # Artur Akhmetshin
-##### Email : artur.akhmetshin@outlook.com
-##### Mobile: +7 927 041 01 11
+##### Email: artur.akhmetshin@outlook.com
+##### Github: artur-app
+##### Telegram: artur_apps
+
 ___
 
 
@@ -13,8 +15,8 @@ ___
 ## Key Skills
 
 * ##### Strong team player
-* ##### Training & coaching
 * ##### Product manamgement
+* ##### Training & coaching
 ___
 
 ## Languages
@@ -25,5 +27,5 @@ ___
 ___
 
 ## About me
-##### My name is Artur and I am a Newbie in iOS Development. My primary focus and inspiration for my studies is Mobile Development. In my free time, I study human computer interface and the psychology of human learning.
+##### My name is Artur and I am a Newbie in Software Development. My primary focus and inspiration for my studies is Web & Mobile Development. In my free time, I study guidelines in human computer interfaces and the psychology of human learning.
 ##### I am both driven and self-motivated, and I am constantly experimenting with new technologies and techniques.
